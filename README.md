@@ -46,7 +46,7 @@ Clone and Switch Branch: Clone the project repository and then use git checkout 
 Installation
 Clone the repository to your local machine:
 
-git clone https://github.com/JEETAHIRWAR/atm-interface.git
+
 
 Change the working directory to the project folder:
 
